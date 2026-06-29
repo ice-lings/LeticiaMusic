@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>assets/images/default_music_cover.png</file>
+        <file alias="heart-line.svg">assets/svgs/heart-line.svg</file>
+        <file alias="heart-fill.svg">assets/svgs/heart-fill.svg</file>
+        <file alias="Setting-white.svg">assets/svgs/Setting-white.svg</file>
+        <file alias="checkmark.svg">assets/svgs/checkmark.svg</file>
+        <file alias="play-circle.svg">assets/svgs/play-circle.svg</file>
+        <file alias="pause-circle.svg">assets/svgs/pause-circle.svg</file>
+        <file alias="playlist.svg">assets/svgs/playlist.svg</file>
+        <file alias="prev.svg">assets/svgs/prev.svg</file>
+        <file alias="next.svg">assets/svgs/next.svg</file>
+        <file alias="queue.svg">assets/svgs/queue.svg</file>
+        <file alias="list-loop.svg">assets/svgs/list-loop.svg</file>
+        <file alias="single-loop.svg">assets/svgs/single-loop.svg</file>
+        <file alias="shuffle.svg">assets/svgs/shuffle.svg</file>
+        <file alias="profile.svg">assets/svgs/profile.svg</file>
+        <file alias="back-arrow.svg">assets/svgs/back-arrow.svg</file>
+        <file alias="checkbox-checked.svg">assets/svgs/checkbox-checked.svg</file>
+        <file alias="chevron-right.svg">assets/svgs/Chevron-Right.svg</file>
+        <file alias="close-x.svg">assets/svgs/close-x.svg</file>
+        <file alias="cloud-sync.svg">assets/svgs/cloud-sync.svg</file>
+        <file alias="duplicate.svg">assets/svgs/Duplicate.svg</file>
+        <file alias="gear.svg">assets/svgs/gear.svg</file>
+        <file alias="more-vertical.svg">assets/svgs/more-vertical.svg</file>
+        <file alias="music-note.svg">assets/svgs/music_note.svg</file>
+        <file alias="plus.svg">assets/svgs/plus.svg</file>
+        <file alias="search.svg">assets/svgs/search.svg</file>
+        <file alias="trash.svg">assets/svgs/trash.svg</file>
+    </qresource>
+</RCC>

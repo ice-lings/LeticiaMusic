@@ -1,0 +1,6 @@
+[submodule "src/thirdparty/taglib"]
+	path = src/thirdparty/taglib
+	url = https://github.com/taglib/taglib.git
+[submodule "src/thirdparty/curl"]
+	path = src/thirdparty/curl
+	url = https://github.com/curl/curl.git

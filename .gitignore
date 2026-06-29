@@ -1,0 +1,111 @@
+# Qt
+*.pro.user
+*.pro.user.*
+*.autosave
+CMakeLists.txt.user
+CMakeLists.txt.*
+CMakeCache.txt
+
+# Build directories
+build/
+cmake-build-*/
+android-build/
+android-lib/
+android-obj/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Qt Creator
+.qtc_clangd/
+.qmake.stash
+*.qmlproject.user
+*.qmlproject.user.*
+Makefile*
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.a
+*.apk
+*.aab
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+nul
+
+# Node
+node_modules/
+package-lock.json
+package.json
+
+# OpenCode
+.opencode/opencode.json
+.opencode/oh-my-opencode.jsonc
+.opencode/plans/
+.opencode/reports/
+.opencode/plugins/
+.opencode/package-lock.json
+.opencode/node_modules/
+.opencode/package.json
+
+# Generated
+CLAUDE_MD
+Logger.hpp
+build_output.txt
+logs/tests/
+checkmark.svg
+heart-fill.svg
+heart-line.svg
+Setting-white.svg
+Setting.svg
+white-gear.svg
+
+# Third-party (子模块路径由 Git 管理，内容和构建产物忽略)
+src/thirdparty/*/CMakeFiles/
+src/thirdparty/*/**/CMakeFiles/
+src/thirdparty/taglib/build/
+src/thirdparty/curl/build/
+
+# 构建产物（不上传）
+*.zip
+*.idsig
+*.tar.gz
+*.obj
+
+# 不上传的目录（敏感信息 / 工具 / 文档 / 脚本 / 集成测试）
+docs/reference/
+tests/manual/
+tools/
+scripts/
+docs/temp/
+assets/svgs.7z
+assets/Stereoman.mp3
+AGENTS.md
+opencode.json
+
+# Images
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+/*.svg
+!assets/svgs/*.svg
+
+# Release deployment
+Win-Release/
+.opencode
